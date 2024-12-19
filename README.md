@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-Merp
 - 👀 I’m interested in coding wow big surprise
-- 🌱 I’m currently learning java, c++, c#, shell script
+- 🌱 I’m currently learning java, c++, c#, shell script, and python
 - 💞️ I’m looking to collaborate on nothing rn; just doing some personal projects
 - 📫 How to reach me: you can't lmao
 
